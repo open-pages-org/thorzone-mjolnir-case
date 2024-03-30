@@ -4,11 +4,6 @@
 
 Based on the Thor Zone Mjolnir design and shared on here with their permission on a not for profit basis, this is a 3D printable ITX PC case.
 
-ITX_CR10-ONE - UPDATED
-Thank You - for all the comments and downloads are nearly 1000, if you can make a donation that would be great (even £1 each would add up please) so I can carry on devloping, 
-
-UPDATED: This ideally needs a large format printer for the case but I have now added a split case so it can be printed in 2 parts and joined i.e. it now should fit on an Ender 3 although I have not tested this.
-
 This is not a production tested design so following any of this information is entirely at your own risk but there are many successful builds out there.
 
 Only attempt this build if you are competent, understand the risks and you are experienced with electrical or electronic systems or really just like to live life on the edge - just don't come back to me
