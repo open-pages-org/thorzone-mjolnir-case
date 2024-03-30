@@ -120,6 +120,8 @@ M3 x 6 long x 5 dia - 2 off for retaining GPU extension header cable bracket
 
 M3 x 6 long x 5 dia - 4 off for SSD/HDD mounting bracket
 
+![ITX_and_SFX_Side](./assets/ITX_and_SFX_Side.JPG)
+
 ## Print Settings
 
 Printer brand:
