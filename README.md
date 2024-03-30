@@ -1,6 +1,6 @@
 # Thor Zone Mjolnir ITX PC Case
 
-![large_display_Case_front2](https://github.com/open-pages-org/thorzone-mjolnir-case/assets/29359940/4ceca7df-9659-4691-b84e-5aa427c500a6)
+![large_display_Case_front2](./assets/Case_front1.jpg)
 
 Based on the Thor Zone Mjolnir design and shared on here with their permission on a not for profit basis, this is a 3D printable ITX PC case.
 
@@ -26,9 +26,10 @@ The external styling is inspired by the Thor Zone MJOLNIR and this design has be
 
 All 3D Printable items have been produced on a non-commercial basis by Andrew Benjamin and are offered for others to use freely
 
-If you like the design and want to support more work on the PC chassis I would welcome contributions to allow me to buy more printer filament! 
+If you like the design and want to support more work on the PC chassis I would welcome contributions to allow me to buy more printer filament!
 
 ## Notes on the TTP223 Capacitive Switch
+
 The switch has a 5mm range so the PC can be turned on by brushing your hand over the right spot on the front cover
 
 The switch sensitivity auto adjusts but may be affected by choice of filament. Mine works well through a 1mm layer of PETG Carbon fibre
@@ -48,6 +49,7 @@ AB=10 : No-lock Low TTL level output; (this worked for my motherboard)
 AB=11 : Self-lock Low TTL level output;
 
 ## Components
+
 ITX Motherboard, CPU, low profile memory etc.
 
 Cooler - low profile on CPU to suit your components and cooling loads e.g. Noctua L9-I
@@ -64,9 +66,10 @@ Capacitive Touch switch e.g. TTP223 and mini-connectors or use a push switch mou
 
 Fixings - see list below
 
-![large_display_PC_Case_for_ITX_and_full_size_GPU](https://github.com/open-pages-org/thorzone-mjolnir-case/assets/29359940/ded28311-cca0-49e5-bed8-971f740945d7)
+![large_display_PC_Case_for_ITX_and_full_size_GPU](./assets/PC_Case_for_ITX_and_full_size_GPU.JPG)
 
 ## Parts to Print
+
 All parts print without supports
 
 You might just get all the prints from a 1kg roll
@@ -79,11 +82,11 @@ The shell is the largest item is 345mm high x 212mm x 131mm, ~700 g and 4 days
 
 PC Case Shell.stl - Works well in PETG Carbon Fibre, 0.4 nozzle, 0.2 layers, print on 6-inch-wide painters tape to get textured front finish
 
-PC Chassis for ITX and GPU.stl  - Check printing tolerances for embedded nuts
+PC Chassis for ITX and GPU.stl - Check printing tolerances for embedded nuts
 
-PC Chassis for SFX PSU.stl  - Check printing tolerances for spigots that join to ITX Chassis
+PC Chassis for SFX PSU.stl - Check printing tolerances for spigots that join to ITX Chassis
 
-SSD and Capacitive Touch Switch bracket.stl  - Hot Glue TTP223 flush in locator on front of bracket
+SSD and Capacitive Touch Switch bracket.stl - Hot Glue TTP223 flush in locator on front of bracket
 
 PC Case thumb nut head.stl - Glue to 4mm Socket Head Cap Screw (SHCS) to make thumb turn cover screw, the head on the SHCS may need filing down on diameter due to close tolerances
 
@@ -92,15 +95,15 @@ IEC Cover boot.stl - Provides a cover if using an IEC chassis connector - NOTE: 
 IEC Hole Cover Plate.stl - Provides a cover if using a pass-through cable.
 
 Screws (recommend Socket Head Cap Screws)
-M4 x 10mm Screw   - 1 off for Case cover retention NOTE: the SHCS head diameter may need filing (or turning) down to fit the optional screw cap
+M4 x 10mm Screw - 1 off for Case cover retention NOTE: the SHCS head diameter may need filing (or turning) down to fit the optional screw cap
 
-M4 x 10mm Screw   - 2 off for GPU Mounting
+M4 x 10mm Screw - 2 off for GPU Mounting
 
-M3 x 10mm Screws  - 4 off for ITX Motherboard
+M3 x 10mm Screws - 4 off for ITX Motherboard
 
-M3 x 10mm Screws  - 2 off for GPU Extension Cable header bracket
+M3 x 10mm Screws - 2 off for GPU Extension Cable header bracket
 
-M3 x 10mm Screws  - 4 off for SSD/HDD mounting bracket
+M3 x 10mm Screws - 4 off for SSD/HDD mounting bracket
 
 Mounting screws for SSD/HDD to suit device(s)
 
@@ -118,6 +121,7 @@ M3 x 6 long x 5 dia - 2 off for retaining GPU extension header cable bracket
 M3 x 6 long x 5 dia - 4 off for SSD/HDD mounting bracket
 
 ## Print Settings
+
 Printer brand:
 Creality
 
@@ -142,6 +146,7 @@ Filament material:
 PETG CF
 
 Notes:
+
 - All parts print without supports
 - You might just get all the prints from a 1kg roll
 - Use thicker walls for strength, 0.45 line with 0.4 nozzle and increase flow on inner walls to get better layer adhesion
